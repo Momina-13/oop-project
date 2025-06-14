@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual studio projects\\LEVEL2HUMANIZE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67EBAC2A-0507-4A70-B8FC-5434E6DBB123}|LEVEL2HUMANIZE\\LEVEL2HUMANIZE.vcxproj|D:\\visual studio projects\\LEVEL2HUMANIZE\\LEVEL2HUMANIZE\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67EBAC2A-0507-4A70-B8FC-5434E6DBB123}|LEVEL2HUMANIZE\\LEVEL2HUMANIZE.vcxproj|solutionrelative:LEVEL2HUMANIZE\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EBAC2A-0507-4A70-B8FC-5434E6DBB123}|LEVEL2HUMANIZE\\LEVEL2HUMANIZE.vcxproj|D:\\visual studio projects\\LEVEL2HUMANIZE\\LEVEL2HUMANIZE\\entitylogic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67EBAC2A-0507-4A70-B8FC-5434E6DBB123}|LEVEL2HUMANIZE\\LEVEL2HUMANIZE.vcxproj|solutionrelative:LEVEL2HUMANIZE\\entitylogic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EBAC2A-0507-4A70-B8FC-5434E6DBB123}|LEVEL2HUMANIZE\\LEVEL2HUMANIZE.vcxproj|D:\\visual studio projects\\LEVEL2HUMANIZE\\LEVEL2HUMANIZE\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67EBAC2A-0507-4A70-B8FC-5434E6DBB123}|LEVEL2HUMANIZE\\LEVEL2HUMANIZE.vcxproj|solutionrelative:LEVEL2HUMANIZE\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EBAC2A-0507-4A70-B8FC-5434E6DBB123}|LEVEL2HUMANIZE\\LEVEL2HUMANIZE.vcxproj|D:\\visual studio projects\\LEVEL2HUMANIZE\\LEVEL2HUMANIZE\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67EBAC2A-0507-4A70-B8FC-5434E6DBB123}|LEVEL2HUMANIZE\\LEVEL2HUMANIZE.vcxproj|solutionrelative:LEVEL2HUMANIZE\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EBAC2A-0507-4A70-B8FC-5434E6DBB123}|LEVEL2HUMANIZE\\LEVEL2HUMANIZE.vcxproj|D:\\visual studio projects\\LEVEL2HUMANIZE\\LEVEL2HUMANIZE\\entitylogic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67EBAC2A-0507-4A70-B8FC-5434E6DBB123}|LEVEL2HUMANIZE\\LEVEL2HUMANIZE.vcxproj|solutionrelative:LEVEL2HUMANIZE\\entitylogic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "entitylogic.h",
+              "DocumentMoniker": "D:\\visual studio projects\\LEVEL2HUMANIZE\\LEVEL2HUMANIZE\\entitylogic.h",
+              "RelativeDocumentMoniker": "LEVEL2HUMANIZE\\entitylogic.h",
+              "ToolTip": "D:\\visual studio projects\\LEVEL2HUMANIZE\\LEVEL2HUMANIZE\\entitylogic.h",
+              "RelativeToolTip": "LEVEL2HUMANIZE\\entitylogic.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-13T14:48:41.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game.h",
+              "DocumentMoniker": "D:\\visual studio projects\\LEVEL2HUMANIZE\\LEVEL2HUMANIZE\\game.h",
+              "RelativeDocumentMoniker": "LEVEL2HUMANIZE\\game.h",
+              "ToolTip": "D:\\visual studio projects\\LEVEL2HUMANIZE\\LEVEL2HUMANIZE\\game.h",
+              "RelativeToolTip": "LEVEL2HUMANIZE\\game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-13T14:48:30.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\visual studio projects\\LEVEL2HUMANIZE\\LEVEL2HUMANIZE\\main.cpp",
+              "RelativeDocumentMoniker": "LEVEL2HUMANIZE\\main.cpp",
+              "ToolTip": "D:\\visual studio projects\\LEVEL2HUMANIZE\\LEVEL2HUMANIZE\\main.cpp",
+              "RelativeToolTip": "LEVEL2HUMANIZE\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-13T14:48:24.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "game.cpp",
+              "DocumentMoniker": "D:\\visual studio projects\\LEVEL2HUMANIZE\\LEVEL2HUMANIZE\\game.cpp",
+              "RelativeDocumentMoniker": "LEVEL2HUMANIZE\\game.cpp",
+              "ToolTip": "D:\\visual studio projects\\LEVEL2HUMANIZE\\LEVEL2HUMANIZE\\game.cpp",
+              "RelativeToolTip": "LEVEL2HUMANIZE\\game.cpp",
+              "ViewState": "AgIAAI8BAAAAAAAAAAAAAIMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-13T14:48:19.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "entitylogic.cpp",
+              "DocumentMoniker": "D:\\visual studio projects\\LEVEL2HUMANIZE\\LEVEL2HUMANIZE\\entitylogic.cpp",
+              "RelativeDocumentMoniker": "LEVEL2HUMANIZE\\entitylogic.cpp",
+              "ToolTip": "D:\\visual studio projects\\LEVEL2HUMANIZE\\LEVEL2HUMANIZE\\entitylogic.cpp",
+              "RelativeToolTip": "LEVEL2HUMANIZE\\entitylogic.cpp",
+              "ViewState": "AgIAADQAAAAAAAAAAAAvwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-13T14:48:01.126Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
